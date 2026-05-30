@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./https://github.com/Purvjadh/Product-Review-Card/blob/main/Screenshot%202026-05-31%20023212.png)
 
 ### Links
 
