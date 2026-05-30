@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL CSS: [Add solution URL here](https://github.com/Purvjadh/Product-Review-Card/blob/main/product-preview-card-component-main/style.css)
-- Live Site URL: [Add live site URL here](https://preview-card-by-purva.netlify.app/)
+- Solution URL CSS: [solution URL ](https://github.com/Purvjadh/Product-Review-Card/blob/main/product-preview-card-component-main/style.css)
+- Live Site URL: [live site URL ](https://preview-card-by-purva.netlify.app/)
 
 ## My process
 
